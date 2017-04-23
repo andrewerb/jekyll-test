@@ -1,5 +1,4 @@
-# Jekyll test
+# Jekyll testing
 
-
-Testing out static sites in Jekyll
+Trying out static website generation in [Jekyll] (https://jekyllrb.com/) for practice.
 
